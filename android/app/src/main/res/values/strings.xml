@@ -4,7 +4,7 @@
   <string name="title_activity_main">myApp</string>
   <string name="package_name">io.ionic.starter</string>
   <string name="custom_url_scheme">io.ionic.starter</string>
-  <string name="ionic_app_id">0428be1d</string>
+  <string name="ionic_app_id">74484f31</string>
   <string name="ionic_channel_name">Production</string>
   <string name="ionic_update_method">none</string>
   <string name="ionic_max_versions">2</string>
